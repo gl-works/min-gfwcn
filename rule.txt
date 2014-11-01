@@ -9,9 +9,6 @@ http://*.hulu.com
 http://*.blogspot.*
 http://*.appspot.com
 
-@http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt*
-@https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt*
-
 http://*.googlecode.com*
 @https://*.google.com*
 http://*.google.com*
