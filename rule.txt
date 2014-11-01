@@ -5,6 +5,14 @@
 #BEGIN
 
 [wildcard]
+
+http://*.slideshare.net*
+https://*.slideshare.net*
+http://*.facebook.com*
+https://*.facebook.com*
+http://*.twitter.com*
+https://*.twitter.com*
+
 http://*.hulu.com
 http://*.blogspot.*
 http://*.appspot.com
