@@ -1,0 +1,24 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 11/1/2014
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+http://*.hulu.com
+http://*.blogspot.*
+http://*.appspot.com
+
+@http://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt*
+@https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt*
+
+http://*.googlecode.com*
+@https://*.google.com*
+http://*.google.com*
+
+@https://upload.wikimedia.org*
+@https://*.wikipedia.org*
+http://*.wikipedia.org*
+!@https://autoproxy.org*
+!@http://ime.baidu.jp*
+
